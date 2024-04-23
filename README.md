@@ -1,5 +1,5 @@
 ## Docker
-For docker run use the following command for port startup: sudo docker run -d -p 3000:3000 
+For docker1 run use the following command for port startup: sudo docker run -d -p 3000:3000 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
