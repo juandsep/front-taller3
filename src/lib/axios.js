@@ -10,7 +10,7 @@ export const createHeaders = () => {
 
 export const createRequest = () => {
   return axios.create({
-    baseURL: "http://35.196.188.171:8000",
+    baseURL: "https://back-taller4-vf-t357ujhuea-uc.a.run.app/:8000",
     headers: createHeaders(),
   });
 };
